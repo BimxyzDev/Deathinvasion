@@ -1,8 +1,15 @@
-{
-  "users": [
-    {
-      "username": "admin",
-      "password": "death123"
-    }
-  ]
-}
+
+[
+  {
+    "code": "BIMAKONTOL",
+    "token": "7743579295:AAGGNxeSBz6oFsORfR3uKNbVlGy5MAvuTsY"
+  },
+  {
+    "code": "XNXXWEB",
+    "token": "8138480895:AAGMPOlup8whEADW8nJae66djvF6S0CRa1s"
+  },
+  {
+    "code": "ANJAY",
+    "token": "8156789012:AATESTTOKENXYZ"
+  }
+]
